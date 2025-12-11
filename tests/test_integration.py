@@ -1,5 +1,7 @@
 from lib.diary import *
+from lib.todo_list import *
 from lib.diary_ent import *
+
 
 """
 when two diary entries are entered, the diary will return both
