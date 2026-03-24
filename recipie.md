@@ -1,3 +1,6 @@
+GOLDEN SQUARE PRACTICES 
+DESIGN A MULTI CLASS PROGRAM 
+
 DESCRIPTION OF THE CHALLENGE
 As a user:
     - So I can record my experiences, I want to keep a regular diary
